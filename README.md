@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in eventually becoming a full-stack web developer
+- 🌱 I’m currently learning anything I can get my hands on, but my main focuses are anything to do with front-end development and some full-stack.  I've spent many months learning ReactJS and implementing various things in it.  I'm specifically on a journey to complete as many Frontend Mentor challenges as I can as fast as I can, using React, JS/TS, and Tailwind.  
+- I'm planning on building a portfolio website ASAP which will showcase my skills.  
+- 📫 How to reach me:
+- My email - Michael.Lieberman98@gmail.com
+- My LinkedIn - https://www.linkedin.com/in/michaellieberman98/
